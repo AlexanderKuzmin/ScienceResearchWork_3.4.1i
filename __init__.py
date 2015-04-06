@@ -1,4 +1,3 @@
-__author__ = 'Alexander'
 '''
     @version: 1.0
     @since: 25.02.2015
@@ -6,3 +5,5 @@ __author__ = 'Alexander'
     @return:
     @note:
 '''
+
+__author__ = 'Alexander'
